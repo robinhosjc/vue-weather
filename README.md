@@ -1,4 +1,5 @@
 # vue-weather
+# Reference: https://www.youtube.com/watch?v=JLc-hWsPTUY&t=1440s
 
 ## Project setup
 ```
